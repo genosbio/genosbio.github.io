@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+	<url>
+		<loc>https://genos.bio/index.html</loc>
+	</url>
+	<url>
+		<loc>https://genos.bio/news/index.html</loc>
+	</url>
+	<url>
+		<loc>https://genos.bio/news/files/2a9430e71e8b9e6bc07198ed880bd000-1.html</loc>
+	</url>
+	<url>
+		<loc>https://genos.bio/news/files/fbf0f97c27c80e359b1b81289c038511-0.html</loc>
+	</url>
+	<url>
+		<loc>https://genos.bio/news/files/archive-december-2023.html</loc>
+	</url>
+	<url>
+		<loc>https://genos.bio/news/files/category-press.html</loc>
+	</url>
 </urlset>

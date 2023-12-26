@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+<title>News</title><link>https://genos.bio/index.html</link><description>Hot News&#x21;</description><dc:language>en</dc:language><language>en</language><dc:creator>GENOS</dc:creator><dc:rights>&#xa9; 2023 GENOS LLC</dc:rights><dc:date>2023-12-05T07:58:09-04:00</dc:date><admin:generatorAgent rdf:resource="http://www.realmacsoftware.com/" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+<lastBuildDate>Tue, 5 Dec 2023 07:20:00 -0400</lastBuildDate><item><title>GENOS Establishes BioinfaaS Lineup</title><dc:creator>GENOS</dc:creator><category>Press</category><dc:date>2023-12-05T07:58:09-04:00</dc:date><link>https://genos.bio/news/files/2a9430e71e8b9e6bc07198ed880bd000-1.html#unique-entry-id-1</link><guid isPermaLink="true">https://genos.bio/news/files/2a9430e71e8b9e6bc07198ed880bd000-1.html#unique-entry-id-1</guid><content:encoded><![CDATA[#todo]]></content:encoded></item><item><title>Ozcorp Scientific Unveils GENOS to Propel Biotechnology Research Through Tailored Bioinformatics Services  </title><dc:creator>GENOS</dc:creator><category>Press</category><dc:date>2023-12-05T07:00:00-04:00</dc:date><link>https://genos.bio/news/files/fbf0f97c27c80e359b1b81289c038511-0.html#unique-entry-id-0</link><guid isPermaLink="true">https://genos.bio/news/files/fbf0f97c27c80e359b1b81289c038511-0.html#unique-entry-id-0</guid><content:encoded><![CDATA[San Juan, Puerto Rico &ndash; December 5, 2023  &ndash; Ozcorp Scientific, a biotech venture studio, proudly announces the official emergence of GENOS, marking its decisive step out of stealth-mode and into the realm of pioneering bioinformatics solutions. Spearheaded by Osvaldo D. Rivera, PhD, former Bioinformatics Scientist, GENOS stands poised to revolutionize the landscape of bioinformatics services, positioned strategically within Puerto Rico's vibrant Tech Hub for biopharmaceutical and medical device manufacturing.]]></content:encoded></item></channel>
+</rss>
