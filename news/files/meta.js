@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"archive-april-2024.html":"Archives for April 2024","category-new-category.html":"A list of posts in category &ldquo;New Category&rdquo;","category-press.html":"A list of posts in category &ldquo;Press&rdquo;","ozcorp-unveils-genos-bioinformatics-from-stealth.html":"SAN JUAN, Puerto Rico – April 14, 2024  – Ozcorp Scientific, a biotech venture studio, proudly announces the official emergence of GENOS, marking its "};
+	var websiteMeta = {"archive-april-2024.html":"Archives for April 2024","category-new-category.html":"A list of posts in category &ldquo;New Category&rdquo;","category-press.html":"A list of posts in category &ldquo;Press&rdquo;","ozcorp-unveils-genos-bioinformatics-from-stealth.html":"SAN JUAN, Puerto Rico – April 18, 2024  – Ozcorp Scientific, a biotech venture studio, proudly announces the official emergence of GENOS, marking its "};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
