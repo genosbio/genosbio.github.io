@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"40af003f7700a4d523ef6d0e12cc1fb8-3.html":"SAN JUAN, PUERTO RICO – Ozcorp Scientific, a Puerto Rico based biotech venture studio, is proud to announce that GENOS, one of its recently debuted po","archive-april-2024.html":"Archives for April 2024","category-new-category.html":"A list of posts in category &ldquo;New Category&rdquo;","category-press.html":"A list of posts in category &ldquo;Press&rdquo;","ozcorp-unveils-genos-bioinformatics-from-stealth.html":"SAN JUAN, PUERTO RICO – Ozcorp Scientific, a biotech venture studio, proudly announces the official emergence of GENOS, marking its decisive step out "};
+	var websiteMeta = {"archive-april-2024.html":"Archives for April 2024","category-new-category.html":"A list of posts in category &ldquo;New Category&rdquo;","category-press.html":"A list of posts in category &ldquo;Press&rdquo;","ozcorp-unveils-genos-bioinformatics-from-stealth.html":"SAN JUAN, PUERTO RICO – Ozcorp Scientific, a biotech venture studio, proudly announces the official emergence of GENOS, marking its decisive step out ","genos-participate-bioleap-accelerator-puerto-rico.html":"SAN JUAN, PUERTO RICO – Ozcorp Scientific, a Puerto Rico based biotech venture studio, is proud to announce that GENOS, one of its recently debuted po"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
