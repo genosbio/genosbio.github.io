@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"archive-april-2024.html":"Archives for April 2024","category-new-category.html":"A list of posts in category &ldquo;New Category&rdquo;","category-press.html":"A list of posts in category &ldquo;Press&rdquo;","ozcorp-unveils-genos-bioinformatics-from-stealth.html":"SAN JUAN, PUERTO RICO – Ozcorp Scientific, a biotech venture studio, proudly announces the official emergence of GENOS, marking its decisive step out ","genos-participate-bioleap-accelerator-puerto-rico.html":"SAN JUAN, PUERTO RICO – Ozcorp Scientific, a Puerto Rico based biotech venture studio, is proud to announce that GENOS, one of its recently debuted po"};
+	var websiteMeta = {"archive-december-2024.html":"Archives for December 2024","genos-participate-bioleap-accelerator-puerto-rico.html":"SAN JUAN, PUERTO RICO – GENOS, one of Ozcorp Scientific's recently debuted portfolio companies, has been selected to join the inaugural cohort of the ","GENOS-selected-parallel18-pre18-strengthen-market-entry-expand-operations.html":"SAN JUAN, PUERTO RICO – GENOS LLC, a bioinformatics contract research organization (CRO), has been selected for the prestigious pre18 program by Paral","category-new-category.html":"A list of posts in category &ldquo;New Category&rdquo;","archive-april-2024.html":"Archives for April 2024","ozcorp-unveils-genos-bioinformatics-from-stealth.html":"SAN JUAN, PUERTO RICO – Ozcorp Scientific, a biotech venture studio, proudly announces the official emergence of GENOS, marking its decisive step out ","category-press.html":"A list of posts in category &ldquo;Press&rdquo;"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
