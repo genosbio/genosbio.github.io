@@ -4,13 +4,13 @@
 		<loc>https://genos.bio/index.html</loc>
 	</url>
 	<url>
-		<loc>https://genos.bio/menu/index.html</loc>
-	</url>
-	<url>
 		<loc>https://genos.bio/contact/index.html</loc>
 	</url>
 	<url>
 		<loc>https://genos.bio/news/index.html</loc>
+	</url>
+	<url>
+		<loc>https://genos.bio/news/files/GENOS-Launches-Digital-Contracting-Platform-to-Enhance-Bioinformatics-Service-Procurement.html</loc>
 	</url>
 	<url>
 		<loc>https://genos.bio/news/files/GENOS-selected-parallel18-pre18-strengthen-market-entry-expand-operations.html</loc>
@@ -23,6 +23,9 @@
 	</url>
 	<url>
 		<loc>https://genos.bio/news/files/archive-april-2024.html</loc>
+	</url>
+	<url>
+		<loc>https://genos.bio/news/files/archive-february-2025.html</loc>
 	</url>
 	<url>
 		<loc>https://genos.bio/news/files/archive-december-2024.html</loc>
@@ -38,5 +41,8 @@
 	</url>
 	<url>
 		<loc>https://genos.bio/partners/sample_reports/index.html</loc>
+	</url>
+	<url>
+		<loc>https://genos.bio/partners/menu/index.html</loc>
 	</url>
 </urlset>
