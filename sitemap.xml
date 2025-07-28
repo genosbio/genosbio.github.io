@@ -7,6 +7,15 @@
 		<loc>https://genos.bio/news/index.html</loc>
 	</url>
 	<url>
+		<loc>https://genos.bio/news/files/archive-april-2024.html</loc>
+	</url>
+	<url>
+		<loc>https://genos.bio/news/files/archive-february-2025.html</loc>
+	</url>
+	<url>
+		<loc>https://genos.bio/news/files/archive-december-2024.html</loc>
+	</url>
+	<url>
 		<loc>https://genos.bio/partners/index.html</loc>
 	</url>
 	<url>
@@ -17,8 +26,5 @@
 	</url>
 	<url>
 		<loc>https://genos.bio/partners/menu/index.html</loc>
-	</url>
-	<url>
-		<loc>https://genos.bio/xpress/index.html</loc>
 	</url>
 </urlset>
